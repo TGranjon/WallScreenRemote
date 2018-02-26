@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WallScreen Remote</string>
+    <string name="title_activity_fsmain">FSMainActivity</string>
+</resources>
